@@ -49,7 +49,7 @@ This repository contains the following elements:
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your_username/CABA_M2_Analysis.git
+   https://github.com/GianCipollari/Buenos-Aires-City-m2-value-analysis
    ```
 2. **Install Dependencies**:
    Navigate to the project directory and run:
