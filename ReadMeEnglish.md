@@ -1,6 +1,6 @@
 # Analysis of Square Meter Value in Buenos Aires
 
-## Project Description
+## Project Description 
 
 The objective of this project is to analyze the **value of the square meter** in different communes of Buenos Aires City, using open data and **data analysis** tools. **Machine learning** techniques and **interactive visualizations** were applied to identify factors affecting property prices, such as access to public transportation, family income, and other socioeconomic indicators.
 
