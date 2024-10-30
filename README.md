@@ -48,7 +48,7 @@ Este repositorio contiene los siguientes elementos:
 
 ## Cómo Ejecutar el Proyecto
 
-1.  **Clonar el Repositorio**: git clone <https://github.com/tu_usuario/CABA_M2_Analysis.git>
+1.  **Clonar el Repositorio**: git clone <https://github.com/GianCipollari/CABA_M2_Analysis.git>
 
 2.  **Instalar Dependencias**: Navega al directorio del proyecto y ejecuta:
 
